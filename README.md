@@ -1,5 +1,5 @@
 # fix-income-quant-trading
-some interest rate models such as Vasicek model
+some short rate models such as Vasicek and dynamic Nelson-Siegel model
 
 ## Vasicek model
 
