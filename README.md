@@ -4,7 +4,7 @@ some interest rate models such as Vasicek model
 ## Vasicek model
 
 
-$\ {dr(t)=\{\mu-\kappa r(t)\}dt+\sqrt{\gamma r(t)+\sigma} dW(t)}$
+![formula](https://render.githubusercontent.com/render/math?math={dr(t)=\{\mu-\kappa r(t)\}dt+\sqrt{\gamma r(t)+\sigma} dW(t)})
 
 
 when $\gamma$ is zero
